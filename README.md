@@ -1,6 +1,5 @@
 # Hi, i'm Cikayo.
 
-- 🤞北京，前端开发
+- 🤞Web开发
 - 🧑🏻头发还好
-- 👊🏻前端开发进阶中，后端开发学习中
 - 😄博客：[Cikayo](https://www.cikayo.com)
